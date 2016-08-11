@@ -1,0 +1,49 @@
+img {
+	width: 150px;
+}
+.nav {
+	text-decoration: none;
+	padding: 10px;
+}
+.contacto {
+	border-radius: 10px;
+	background-color: #BDBDBD;
+	width: 250px;
+	padding: 5px 15px 20px;
+	margin-top: 45px;
+}
+.fondo{
+	background-color: #A4A4A4;
+}
+.text{
+	color: white;
+}
+.name {
+	width: 250px;
+	margin-top: 10px;
+}
+button {
+	background-color: #81BEF7;
+	border: none;
+	padding: 5px;
+	margin-top: 10px;
+	width: 255px;
+}
+.button {
+	text-decoration: none;
+	color: white;
+}
+h3 {
+	color: white;
+	text-align: center;
+	margin: 20px 0px 0px;
+}
+.link {
+	color: blue;
+	text-decoration: none;
+}
+@media (max-width:535px) {
+	.texto , .contact {
+		max-width: 100%;
+	}
+}
